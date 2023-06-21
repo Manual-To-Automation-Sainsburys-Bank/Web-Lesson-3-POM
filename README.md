@@ -3,7 +3,7 @@
   <img src="https://cdn.cookielaw.org/logos/af33d682-b608-4a02-a87c-726c5880e254/44ba34d9-63c1-451e-a22d-ba28af064ea1/19ef061a-823e-4179-ae5c-43b2c60fe360/New_SB_Logo_r240g108b0.png" width="400" height="100" title="Percy.IO2">
 </p>
 
-# Sainsburys Bank - Web - Lesson 3 - Exercise
+# Sainsburys Bank - Web - Lesson 3 - Page Object Model
 
 This repository shows an implementation of the Page Object Model.
 
